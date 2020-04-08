@@ -1,4 +1,4 @@
-theme: git clone https://github.com/nrandecker/particle.git
+theme: jekyll-theme-Particle
 # Site settings
 description: A blog about lorem ipsum dolor sit amet
 baseurl: "" # the subpath of your site, e.g. /blog/
