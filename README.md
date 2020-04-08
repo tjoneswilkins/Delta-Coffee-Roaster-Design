@@ -3,6 +3,6 @@ Designed by Tully Jones-Wilkins - High school student - The Delta school, Wilson
    
 This is an open source coffee roaster design. Focused to be adaptable, portable, and outdoor themed. 
 
-<iframe width="480" height="360" src="https://www.youtube.com/watch?v=QRO_J9fgrgA&feature=youtu.be" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRO_J9fgrgA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 [Digital Design Process](https://www.youtube.com/watch?v=QRO_J9fgrgA&feature=youtu.be)
