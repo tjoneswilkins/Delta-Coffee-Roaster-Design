@@ -2,9 +2,12 @@
 <div align="center">
 
 
-Designed by Tully Jones-Wilkins - High school student - The Delta school, Wilson, Arkansas
+### Designed by Tully Jones-Wilkins - High school student - The Delta school, Wilson, Arkansas
    
+   
+  
 This is an open source coffee roaster design. Focused to be **adaptable**, **portable**, and **outdoor themed**. 
+
 
 
 <div class="sketchfab-embed-wrapper">
@@ -15,6 +18,9 @@ This is an open source coffee roaster design. Focused to be **adaptable**, **por
         on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
     </p>
 </div>
+
+
+
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QRO_J9fgrgA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
