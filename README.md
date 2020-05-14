@@ -17,7 +17,5 @@ This is an open source coffee roaster design. Focused to be adaptable, portable,
     </p>
 </div>
 
-[Interactive 3D sketch](https://skfb.ly/6SCMY) 
-
 # More Images 
 
