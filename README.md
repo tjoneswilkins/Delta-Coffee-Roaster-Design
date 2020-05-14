@@ -3,4 +3,4 @@
    
 This is an open source coffee roaster design. Focused to be adaptable, portable, and outdoor themed. 
 
-[Roaster Design hosting](https://tjoneswilkins.github.io/Delta-Coffee-Roaster-Design-/)
+[Roaster Design hosting](https://tjoneswilkins.github.io/Delta-Coffee-Roaster-Design/)
