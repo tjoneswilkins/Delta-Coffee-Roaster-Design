@@ -1,12 +1,10 @@
 # Delta-Coffee-Roaster-Design
+<div align="center">
+
 Designed by Tully Jones-Wilkins - High school student - The Delta school, Wilson, Arkansas
    
-This is an open source coffee roaster design. Focused to be adaptable, portable, and outdoor themed. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRO_J9fgrgA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
-
-
-[Digital Design Process](https://www.youtube.com/watch?v=QRO_J9fgrgA&feature=youtu.be) *if embed is broken*
+This is an open source coffee roaster design. Focused to be **adaptable**, **portable**, and **outdoor themed**. 
+</div>
 
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/0ca399b2a7bf4b0396c1bfb050c9e180/embed?preload=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -16,6 +14,11 @@ This is an open source coffee roaster design. Focused to be adaptable, portable,
         on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
     </p>
 </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRO_J9fgrgA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<div align = "center" >
+[Digital Design Process](https://www.youtube.com/watch?v=QRO_J9fgrgA&feature=youtu.be) *if embed is broken*
+   </div>
 
 # More Images 
 
