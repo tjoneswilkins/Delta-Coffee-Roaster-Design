@@ -7,5 +7,7 @@ This is an open source coffee roaster design. Focused to be adaptable, portable,
 
 [Digital Design Process](https://www.youtube.com/watch?v=QRO_J9fgrgA&feature=youtu.be) *if embed is broken*
 
+[Interactive 3D sketch](https://skfb.ly/6SCMY) 
+
 # More Images 
-[rendered earlier draft](coffee roaster v13.png) 
+
