@@ -1,7 +1,7 @@
-<div align="center">
 # Designed by Tully Jones-Wilkins - High school student - The Delta school, Wilson, Arkansas.
-<div/>
+
 <div align="center">
+    
 
 
 
